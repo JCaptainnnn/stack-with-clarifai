@@ -14,4 +14,3 @@ General use
 https://trello.com/b/WYeu5LpP/image-recog
 
 # Deployed App
-https://jcaptain-scheduling-api.herokuapp.com/
